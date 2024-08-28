@@ -1,1 +1,1 @@
-
+query_id=AAEqrFQlAwAAACqsVCX1Vr0C&user=%7B%22id%22%3A7068757034%2C%22first_name%22%3A%22Ahmad%22%2C%22last_name%22%3A%22Sobash%20%F0%9F%A6%B4%22%2C%22username%22%3A%22ahmadbashor1%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1724810907&hash=7208762669686bd6125e251b719d3d05684ccd4209401ab61bf319d23828b1a3
